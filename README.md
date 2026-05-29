@@ -24,7 +24,8 @@ Pastry & Coffee World is a frontend showcase designed to simulate a real-world e
 
 | Desktop View | Mobile View |
 | :---: | :---: |
-| ![Desktop Screenshot](https://placehold.co/600x400?text=Desktop+Preview) | ![Mobile Screenshot](https://placehold.co/250x400?text=Mobile+Preview) |
+| ![Desktop Screenshot](https://placehold.![Uploading screencapture-127-0-0-1-5500-CoffeeCafe-html-2026-05-29-19_54_17.png…]()
+co/600x400?text=Desktop+Preview) | ![Mobile Screenshot](https://placehold.co/250x400?text=Mobile+Preview) |
 
 
 ## 🚀 Installation & Local Setup
