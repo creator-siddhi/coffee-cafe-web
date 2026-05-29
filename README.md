@@ -25,8 +25,7 @@ Pastry & Coffee World is a frontend showcase designed to simulate a real-world e
 | Desktop View | Mobile View |
 | :---: | :---: |
 | ![Desktop Screenshot](<img width="1920" height="4316" alt="screencapture-127-0-0-1-5500-CoffeeCafe-html-2026-05-29-19_54_17" src="https://github.com/user-attachments/assets/b1e140c0-9caa-47ea-b4fb-fa81f6c7c374" />
-) | ![Mobile Screenshot](<img width="478" height="8392" alt="screencapture-127-0-0-1-5500-CoffeeCafe-html-2026-05-29-20_05_21" src="https://github.com/user-attachments/assets/59ce8ef0-c1eb-4f7a-bbc3-628eb3bf48da" />
-) |
+) 
 
 
 ## 🚀 Installation & Local Setup
